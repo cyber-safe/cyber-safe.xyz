@@ -1,0 +1,67 @@
+url: cyber-safe.xyz
+baseurl: 
+
+# Site settings
+title: C.Y.B.E.R.S.A.F.E
+email: dvc@cyber-safe.xyz
+description: "information security, vulnerability management, IT outsourcing, penetration test, red team, information security, incident response, cybersecurity, securtiy assement, gdpr compliance, security awareness, security training, difital forensics, information security audit, pentest"
+
+
+# Team names, titles and social links
+people:
+- name: Dinko Cherkezov
+  pic: 1
+  position: Cybersecurity consultant
+  social:
+    - title: twitter
+      url: #  
+    - title: linkedin
+      url:  https://linkedin.com/in/dinko-c-34901230
+    - title: stack-overflow
+      url: #
+
+- name: Dimka Cherkezova
+  pic: 4
+  position: Administrative manager
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+
+
+- name: ???
+  pic: 6
+  position: Join Our Team
+ # social:
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+  - title: linkedin
+    url: https://www.linkedin.com/company/cybersafe-s-ar-l-s
+#  - title: stack-overflow
+#    url: #
+#  - title: bitbucket 
+#    url: #
+#  - title: github
+#    url: #
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 29 Rue de Cessange
+  - line: Leudelange, 3347, Luxembourg
+
+# Build settings
+markdown: kramdown
+permalink: pretty
